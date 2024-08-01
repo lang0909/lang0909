@@ -15,3 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![github stats](https://github-readme-stats.vercel.app/api?username=lang0909&show_icons=true&theme=merko)
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=lang0909&count_private=true)](https://github.com/lang0909/github-readme-stats)
+
